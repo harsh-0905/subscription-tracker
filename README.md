@@ -135,4 +135,4 @@ DELETE /api/subscriptions/:id
 
 ## 👨‍💻 Author
 
-Harsh Yadav
+HARSH YADAV
